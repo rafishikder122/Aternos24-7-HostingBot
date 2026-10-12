@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "RAFIXD69.aternos.me:49220",
+    "port": 49220,
     "version": "",
     "try-creative": false
   },
